@@ -1,6 +1,8 @@
 # LotR Music Patch
-I created this patch because the other patch was bugged and did not cover most zones and most tracks. 
-You can hear many LotR and Hobbit songs playing in many different zones and all cities.
+I created this patch because the other patch was bugged and did not cover most zones and most tracks.
+
+You will hear many different LotR and Hobbit songs in many zones and all cities.
+
 Enjoy!
 
 # HOW TO INSTALL
