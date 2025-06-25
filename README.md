@@ -1,2 +1,9 @@
-# Music-Patch
-Ultimate Music Patch for WoW 3.3.5a
+# LotR Music-Patch
+I created this patch because the other LotR music patch was bugged and did not cover most zones and most tracks. Enjoy.
+
+
+# HOW TO INSTALL
+- Remove or disable other music patches if you have any (if necessary)
+- Download patch-m from the Google Drive link
+- Rename if the letter m is already taken by another patch (if necessary)
+- Put it into your data folder
