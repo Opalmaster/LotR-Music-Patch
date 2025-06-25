@@ -3,7 +3,7 @@ I created this patch because the other LotR music patch was bugged and did not c
 
 
 # HOW TO INSTALL
-- Remove or disable other music patches if you have any (if necessary)
+- Remove or disable other music patches if you have any
 - Download patch-m from the Google Drive link
 - Rename if the letter m is already taken by another patch (if necessary)
 - Put it into your data folder
