@@ -1,6 +1,8 @@
 # LotR Music-Patch
-I created this patch because the other LotR music patch was bugged and did not cover most zones and most tracks. Enjoy.
-
+I created this patch because the other LotR music patch was bugged and did not cover most zones and most tracks. 
+You can hear many different LotR and some Hobbit songs playing in many zones.
+Horde taverns are not covered yet (I may add in a future update)
+Enjoy!
 
 # HOW TO INSTALL
 - Remove or disable other music patches if you have any
