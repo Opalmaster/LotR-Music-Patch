@@ -9,11 +9,14 @@ Enjoy!
 
 # HOW TO INSTALL
 - Remove or disable other music patches if you have any
-- Download patch-m from the Google Drive link
-- Rename if the letter m is already taken by another patch (if necessary)
+- Download patch-t from the Google Drive link
+- Rename if the letter t is already taken by another patch (if necessary)
 - Put it into your data folder
 
+# Versions
+2025-06-25 Initial release
+2025-06-29 v1.1 (Ghost music and a PvP song changed)
 
-# Download link (2025-06-25)
+# Download link
+https://drive.google.com/file/d/1b03hZqzC-w27svbcWd1HK3HRxJQ3FRNL
 
-https://drive.google.com/drive/folders/1gjgBQzjV7_SM-i22lyu0hCngnH9huRRl
