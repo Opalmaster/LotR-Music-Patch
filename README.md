@@ -15,6 +15,7 @@ Enjoy!
 
 # Versions
 2025-06-25 Initial release
+
 2025-06-29 v1.1 (Ghost music and a PvP song changed)
 
 # Download link
